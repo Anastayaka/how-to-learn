@@ -210,14 +210,14 @@ h3.table__heading {
 .logo_place_footer {
   height: 35px;
 }
-/* тестировшик ругался на этот селектор,при приверке нужно раскомментить:) 
+
 .footer__columns {
   display: flex;
   width: 90%;
   justify-content: space-between;
   margin: 0 auto;
   min-height: 350px;
-} */
+} 
 .footer__author {
   margin: 18px 0;
   line-height: 25px;
@@ -234,12 +234,12 @@ h3.table__heading {
   font-size: 18px;
   margin: 0 0 16px 0;
 }
-/* тестировшик ругался на этот селектор,при приверке нужно раскомментить:) 
+
 .footer_column_content_copyright {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  flex-basis: 711px; }*/
+  flex-basis: 711px; }
 
 .footer__column-link a{
   text-decoration: none;
